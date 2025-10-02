@@ -1,6 +1,6 @@
 <h1 align="center">RETURN OF THE JET HIGH: An SQL Airline Analytics Project</h1>  
 
-![Logo](https://github.com/JBaptisteAll/Return-of-the-Jet-High-An-SQL-Airline-Analytics-Project/blob/main/Assets/logo.png)
+![Logo](https://github.com/JBaptisteAll/RETURN_OF_THE_JET_HIGH-_An_SQL_Airline_Analytics_Project/blob/main/Assets/logo_return_of_the_jet_high.png)
 
 ## 📌 Introduction
 
